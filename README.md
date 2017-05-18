@@ -1,2 +1,2 @@
 # TypeScriptSample
-初めてのTypeScriptサンプルを登録します。
+初めての TypeScript サンプルを登録します。
