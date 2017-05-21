@@ -1,3 +1,3 @@
 # TypeScriptSample
 初めての TypeScript サンプルを登録します。
-My first SAMPLE page.
+Thi is my first SAMPLE page.
