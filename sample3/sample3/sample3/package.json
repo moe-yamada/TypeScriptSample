@@ -1,0 +1,9 @@
+{
+  "name": "sample3",
+  "version": "0.0.0",
+  "description": "sample3",
+  "main": "app.js",
+  "author": {
+    "name": "moeya"
+  }
+}
